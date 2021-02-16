@@ -5,7 +5,7 @@ Dibuat oleh: Joseph Eric Amadeo Seloatmodjo
 Data - Track  
 
 ## Description
-Pada proyek ini telah disediakan sebuah dataset dengan berberapa tabel. Dari dataset ini, perlu dibuat database dan datawarehouses. Kemudian diperlukan analisa dan pertanyaan - pertanyaan bisnis yang dapat diambil dari data ini. Dari hasil analisa ini, akan dicari kasus-kasus yang dapat diselesaikan menggunakan machine learning.  
+Pada proyek ini telah disediakan sebuah dataset dengan berberapa tabel. Dari dataset ini, perlu dibuat database dan datawarehouse. Kemudian diperlukan analisa dan pertanyaan - pertanyaan bisnis yang dapat diambil dari data ini. Dari hasil analisa ini, akan dicari kasus-kasus yang dapat diselesaikan menggunakan machine learning.  
 
 ## Progress Update
 Progress pengerjaan proyek setiap 2 minggu dapat dilihat disini:   
@@ -14,4 +14,4 @@ Progress pengerjaan proyek setiap 2 minggu dapat dilihat disini:
  
 	- [x] Initialize Repository
 	- [ ] Membuat relational database dari tabel-tabel yang ada
-	- [ ] Membuat datawarehouse / datamart
+	- [ ] Membuat datawarehouse & datamart
