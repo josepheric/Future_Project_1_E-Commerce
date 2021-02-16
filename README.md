@@ -1,3 +1,4 @@
+
 # Future Project 1 (E-Commerce)
 Repository untuk Project 1 Blibli Future Program (Data Track)  
 
@@ -13,5 +14,5 @@ Progress pengerjaan proyek setiap 2 minggu dapat dilihat disini:
  - Week 1 & 2: 
  
 	- [x] Initialize Repository
-	- [ ] Membuat relational database dari tabel-tabel yang ada
+	- [ ] [**On Going**] Membuat relational database dari tabel-tabel yang ada. Lihat laporan lengkap disini [Full Report](https://github.com/josepheric/Future_Project_1_E-Commerce/blob/main/Reports/week1&2.md#membuat-relational-database)
 	- [ ] Membuat datawarehouse & datamart
