@@ -97,3 +97,7 @@ Proses pembuatan  desain Data Warehouse:
 
 ### Star Schema
 **On Going**: akan dikerjakan pada minggu selanjutnya.
+
+## To Do List untuk minggu 3&4:  
+- Membuat StarSchema
+- Melakukan ETL
