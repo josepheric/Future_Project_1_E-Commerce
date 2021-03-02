@@ -14,5 +14,5 @@ Progress pengerjaan proyek setiap 2 minggu dapat dilihat disini:
  - Week 1 & 2: 
  
 	- [x] Initialize Repository
-	- [ ] [**On Going**] Membuat relational database dari tabel-tabel yang ada. Lihat laporan lengkap disini [Full Report](https://github.com/josepheric/Future_Project_1_E-Commerce/blob/main/Reports/week1&2.md#membuat-relational-database)
-	- [ ] Membuat datawarehouse & datamart
+	- [x] Membuat relational database dari tabel-tabel yang ada. [Full Report](https://github.com/josepheric/Future_Project_1_E-Commerce/blob/main/Reports/week1&2.md#membuat-relational-database)  
+	- [ ] [**On Going**] Membuat datawarehouse & datamart  [Full Report](https://github.com/josepheric/Future_Project_1_E-Commerce/blob/main/Reports/week1&2.md#membuat-data-warehouse)  
