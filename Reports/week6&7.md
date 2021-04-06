@@ -1,6 +1,6 @@
-# Laporan Minggu 5&6
+# Laporan Minggu 6 & 7
 
-    9 - 23 Maret 2021
+    23 Maret - 6 April 2021
 ## Kesalahan Pada Data Warehouse 
 Setelah mengikuti mentoring dengan para mentor teknikal, saya menyadari ada berberapa kesalahan dari Data Warehouse saya.
 ### User Dimension
@@ -15,5 +15,5 @@ Pada Data Warehouse saya, masih belum ada data review. Sedangkan data warehouse 
 
 Solusi: membuat dimension review dengan prinsip Slowly Changing Dimension agar dapat menampung review user yang dapat berubah dengan jalannya waktu.    
 
-## Yang dilakukan selama minggu 5 & 6
+## Yang dilakukan selama minggu 6 & 7
 Dikarenakan kesibukan kuliah, saya masih belum dapat mengimplementasikan solusi untuk permasalahan pada data warehouse saya. Saya masih mempelajari konsep slowly changing dimension untuk penerapan Review Dimension
