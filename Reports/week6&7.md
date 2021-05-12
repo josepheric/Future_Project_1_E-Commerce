@@ -1,4 +1,4 @@
-# Laporan Minggu 6 & 7
+# Laporan Minggu 7 & 8
 
     23 Maret - 6 April 2021
 ## Kesalahan Pada Data Warehouse 
