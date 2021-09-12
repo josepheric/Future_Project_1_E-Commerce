@@ -1,0 +1,17 @@
+Softwares used for this projct:
+1. DBeaver Community Edition 7.3.3
+2. Tableau Dekstop 2021.1.4
+3. JupyterLab 2.2.6
+
+Python Packages:
+1. psycopg2 2.8.6
+2. pandas 1.2.0
+3. pandasql 0.7.3
+4. numpy 1.19.2
+5. matplotlib 3.3.3
+6. astropy 4.3.post1
+7. seaborn 0.11.1
+8. squarify 0.4.3
+9. scikit-learn 0.23.2
+
+Python Version: 3.8.5
