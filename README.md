@@ -10,3 +10,9 @@ Pada proyek ini telah disediakan sebuah dataset dengan berberapa tabel. Dari dat
 
 ## Progress Update
 Dapat dilihat pada folder reports
+
+## Link Artikel Medium
+https://medium.com/@amadeo.eric/project-machine-learning-e-commerce-pembuatan-data-warehouse-visualisasi-data-dan-machine-b9fb70b6d5cb 
+
+## Requirements
+Dapat dilihat di Requirements.txt
